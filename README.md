@@ -1,0 +1,2 @@
+# rdesktop
+gui for desktop
